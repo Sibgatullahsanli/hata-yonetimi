@@ -1,0 +1,15 @@
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\bin\Debug\net6.0\hata yonetimi.exe
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\bin\Debug\net6.0\hata yonetimi.deps.json
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\bin\Debug\net6.0\hata yonetimi.runtimeconfig.json
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\bin\Debug\net6.0\hata yonetimi.dll
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\bin\Debug\net6.0\hata yonetimi.pdb
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\obj\Debug\net6.0\hata yonetimi.csproj.AssemblyReference.cache
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\obj\Debug\net6.0\hata yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\obj\Debug\net6.0\hata yonetimi.AssemblyInfoInputs.cache
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\obj\Debug\net6.0\hata yonetimi.AssemblyInfo.cs
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\obj\Debug\net6.0\hata yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\obj\Debug\net6.0\hata yonetimi.dll
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\obj\Debug\net6.0\refint\hata yonetimi.dll
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\obj\Debug\net6.0\hata yonetimi.pdb
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\obj\Debug\net6.0\hata yonetimi.genruntimeconfig.cache
+C:\Users\Sıbgatullah\Documents\Patika .NetCore ödevleri\C# Pratikler\hata yonetimi\obj\Debug\net6.0\ref\hata yonetimi.dll
